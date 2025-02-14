@@ -1,5 +1,5 @@
 # 🤖 EVA: Python-Based Virtual AI Assistant
-# 📌 Project Overview
+## 📌 Project Overview
 EVA is a powerful and intelligent Virtual AI Assistant built using Python. It can perform a variety of automation and personalization tasks, making daily activities more convenient and efficient. EVA interacts with users through voice commands and provides a seamless experience with real-time responses.
 
 # 🔥 Features
@@ -11,13 +11,13 @@ EVA is a powerful and intelligent Virtual AI Assistant built using Python. It ca
 ✅ Notepad Automation: Create notes based on user input
 ✅ WhatsApp Automation: Send messages and make video calls
 
-# 🎭 Personalization Tasks
+## 🎭 Personalization Tasks
 ✅ Greet User: Eva greets you based on the time of day
 ✅ Thank User: Acknowledge user gratitude
 ✅ Voice Interaction: Uses a friendly female voice for communication
 ✅ Personalized Note-Taking: Creates and opens note files for you
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 Python - Core programming language
 SpeechRecognition - For voice command processing
 pyttsx3 - Text-to-speech conversion
