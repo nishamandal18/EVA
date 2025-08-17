@@ -1,6 +1,5 @@
 #  EVA: Python-Based Virtual AI Assistant
 Overview
-![Image]((https://github.com/nishamandal18/EVA/blob/main/EVA.pdf))
 Eva AI is an intelligent desktop assistant built using Python and Machine Learning technologies. Designed for high efficiency and seamless integration, Eva AI combines powerful automation, personalized responses, and an intuitive graphical interface to deliver an exceptional user experience. Inspired by leading AI assistants like Alexa, Eva is tailored to optimize productivity, automate tasks, and assist in day-to-day activities.
 
 ## Key Features
